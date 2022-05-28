@@ -46,6 +46,7 @@
     <Compile Include="DisemvowelTrolls.cs" />
     <Compile Include="Find the divisors!.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VowelCount.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
