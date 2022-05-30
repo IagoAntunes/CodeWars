@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BreakcamelCase.cs" />
     <Compile Include="DisemvowelTrolls.cs" />
     <Compile Include="Find the divisors!.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
