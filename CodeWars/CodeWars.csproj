@@ -49,6 +49,7 @@
     <Compile Include="MovingZerosToTheEnd.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="VowelCount.cs" />
+    <Compile Include="Wholikesit.cs" />
     <Compile Include="YouAreAsquare!.cs" />
   </ItemGroup>
   <ItemGroup>
